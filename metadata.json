@@ -1,0 +1,6 @@
+{
+  "name": "Fake News & Misinformation Detector",
+  "description": "Multi-stage AI verification pipeline to detect fake news, fact-check claims, and cross-reference credible sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
